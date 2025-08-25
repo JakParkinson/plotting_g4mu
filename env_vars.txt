@@ -1,0 +1,173 @@
+SHELL=/bin/bash
+GCC_RANLIB=/groups/icecube/jackp/.conda/envs/myenv/bin/x86_64-conda-linux-gnu-gcc-ranlib
+LEPTONINJECTOR_PYTHON=/groups/icecube/jackp/build_lepton_injector/home/jack/lepton_injector_clone/install/lib/python3.9/site-packages
+PYTHONUNBUFFERED=1
+HISTCONTROL=ignoredups
+CONDA_MKL_INTERFACE_LAYER_BACKUP=
+CONDA_EXE=/software/astro/anaconda/anaconda3-2020.11/bin/conda
+_CE_M=
+build_alias=x86_64-conda-linux-gnu
+CMAKE_ARGS=-DCMAKE_LINKER=/groups/icecube/jackp/.conda/envs/myenv/bin/x86_64-conda-linux-gnu-ld -DCMAKE_STRIP=/groups/icecube/jackp/.conda/envs/myenv/bin/x86_64-conda-linux-gnu-strip
+HISTSIZE=1000
+HOSTNAME=hep04.cluster
+PYTHIA6_LIBRARY=/groups/icecube/jackp/genie-3.4.2/src/scripts/build/ext/v6_428/lib/libPythia6.so
+GPROF=/groups/icecube/jackp/.conda/envs/myenv/bin/x86_64-conda-linux-gnu-gprof
+_CONDA_PYTHON_SYSCONFIGDATA_NAME=_sysconfigdata_x86_64_conda_cos7_linux_gnu
+PPCTABLESDIR=/groups/icecube/jackp/prometheus/prometheus_clone/resources/PPC_tables/spx
+STRINGS=/groups/icecube/jackp/.conda/envs/myenv/bin/x86_64-conda-linux-gnu-strings
+CPP=/groups/icecube/jackp/.conda/envs/myenv/bin/x86_64-conda-linux-gnu-cpp
+PYTHON_FROZEN_MODULES=on
+ELECTRON_RUN_AS_NODE=1
+VSCODE_AMD_ENTRYPOINT=vs/workbench/api/node/extensionHostProcess
+LMOD_DIR=/usr/share/lmod/lmod/libexec
+PWD=/lustre/hpc/icecube/jackp/plotting_g4mu
+LOGNAME=jackp
+CONDA_ROOT=/software/astro/anaconda/anaconda3-2020.11
+XDG_SESSION_TYPE=tty
+CONDA_PREFIX=/groups/icecube/jackp/.conda/envs/myenv
+MODULESHOME=/usr/share/lmod/lmod
+MANPATH=/usr/share/lmod/lmod/share/man:
+PYTHIA6=/groups/icecube/jackp/genie-3.4.2/src/scripts/build/ext/v6_428
+PYDEVD_IPYTHON_COMPATIBLE_DEBUGGING=1
+CXX=/usr/bin/g++
+CXXFLAGS=-I/usr/include -fvisibility-inlines-hidden -std=c++17 -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /groups/icecube/jackp/.conda/envs/myenv/include
+DEBUG_CXXFLAGS=-fvisibility-inlines-hidden -std=c++17 -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-all -fno-plt -Og -g -Wall -Wextra -fvar-tracking-assignments -ffunction-sections -pipe -isystem /groups/icecube/jackp/.conda/envs/myenv/include
+MOTD_SHOWN=pam
+LDFLAGS=-Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,-rpath,/groups/icecube/jackp/.conda/envs/myenv/lib -Wl,-rpath-link,/groups/icecube/jackp/.conda/envs/myenv/lib -L/groups/icecube/jackp/.conda/envs/myenv/lib
+HOME=/groups/icecube/jackp
+FI_PROVIDER=tcp
+SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass
+LANG=en_US.UTF-8
+DEBUG_CFLAGS=-march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-all -fno-plt -Og -g -Wall -Wextra -fvar-tracking-assignments -ffunction-sections -pipe -isystem /groups/icecube/jackp/.conda/envs/myenv/include
+CXX_FOR_BUILD=/groups/icecube/jackp/.conda/envs/myenv/bin/x86_64-conda-linux-gnu-c++
+SSL_CERT_DIR=/etc/pki/tls/certs
+LMOD_SETTARG_FULL_SUPPORT=no
+FORCE_COLOR=1
+ELFEDIT=/groups/icecube/jackp/.conda/envs/myenv/bin/x86_64-conda-linux-gnu-elfedit
+CONDA_PROMPT_MODIFIER=(myenv) 
+CMAKE_PREFIX_PATH=/groups/icecube/jackp/.conda/envs/myenv:/groups/icecube/jackp/.conda/envs/myenv/x86_64-conda-linux-gnu/sysroot/usr
+PYDEVD_USE_FRAME_EVAL=NO
+FI_TCP_IFACE=bond0
+CPPFLAGS=-DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /groups/icecube/jackp/.conda/envs/myenv/include
+VSCODE_AGENT_FOLDER=/groups/icecube/jackp/.vscode-server
+CLICOLOR=1
+LD=/groups/icecube/jackp/.conda/envs/myenv/bin/x86_64-conda-linux-gnu-ld
+CLICOLOR_FORCE=1
+LMOD_VERSION=8.7.32
+SSH_CONNECTION=130.225.188.131 30835 130.226.158.26 22
+GSLROOT=/usr
+READELF=/groups/icecube/jackp/.conda/envs/myenv/bin/x86_64-conda-linux-gnu-readelf
+LOG4CPP_LIB=/groups/icecube/jackp/log4cpp/lib
+GXX=/groups/icecube/jackp/.conda/envs/myenv/bin/x86_64-conda-linux-gnu-g++
+LOG4CPP_INC=/groups/icecube/jackp/log4cpp/include
+MODULEPATH_ROOT=/usr/share/modulefiles
+GCC_AR=/groups/icecube/jackp/.conda/envs/myenv/bin/x86_64-conda-linux-gnu-gcc-ar
+LHAPATH=/groups/icecube/jackp/lhapdf5/share/LHAPDF
+LHAPDF6=/groups/icecube/jackp/lhapdf5
+XDG_SESSION_CLASS=user
+ADDR2LINE=/groups/icecube/jackp/.conda/envs/myenv/bin/x86_64-conda-linux-gnu-addr2line
+VSCODE_HANDLES_SIGPIPE=true
+LMOD_PKG=/usr/share/lmod/lmod
+PYTHONPATH=/groups/icecube/jackp/build_lepton_injector/home/jack/lepton_injector_clone/install/lib/python3.9/site-packages:
+TERM=xterm-color
+_CE_CONDA=
+CPLUS_INCLUDE_PATH=/groups/icecube/jackp/lhapdf5/include:/groups/icecube/jackp/root_install/include:/groups/icecube/jackp/log4cpp/include:/groups/icecube/jackp/genie-3.4.2/src/scripts/build/ext/v6_428/include
+GCC_NM=/groups/icecube/jackp/.conda/envs/myenv/bin/x86_64-conda-linux-gnu-gcc-nm
+SIZE=/groups/icecube/jackp/.conda/envs/myenv/bin/x86_64-conda-linux-gnu-size
+GENIE=/groups/icecube/jackp/genie-3.4.2
+HOST=x86_64-conda-linux-gnu
+LESSOPEN=||/usr/bin/lesspipe.sh %s
+CC_FOR_BUILD=/groups/icecube/jackp/.conda/envs/myenv/bin/x86_64-conda-linux-gnu-cc
+USER=jackp
+GIT_PAGER=cat
+PYTHONIOENCODING=utf-8
+CONDA_SHLVL=2
+AR=/groups/icecube/jackp/.conda/envs/myenv/bin/x86_64-conda-linux-gnu-ar
+AS=/groups/icecube/jackp/.conda/envs/myenv/bin/x86_64-conda-linux-gnu-as
+DEBUG_CPPFLAGS=-D_DEBUG -D_FORTIFY_SOURCE=2 -Og -isystem /groups/icecube/jackp/.conda/envs/myenv/include
+host_alias=x86_64-conda-linux-gnu
+LMOD_ROOT=/usr/share/lmod
+SHLVL=4
+NM=/groups/icecube/jackp/.conda/envs/myenv/bin/x86_64-conda-linux-gnu-nm
+BASH_ENV=/usr/share/lmod/lmod/init/bash
+GCC=/groups/icecube/jackp/.conda/envs/myenv/bin/x86_64-conda-linux-gnu-gcc
+PAGER=cat
+LMOD_sys=Linux
+PROJ_LIB=/software/astro/anaconda/anaconda3-2020.11/share/proj
+VSCODE_CWD=/lustre/hpc/icecube/jackp
+ROOTSYS=/groups/icecube/jackp/root_install
+XDG_SESSION_ID=281
+GEANT_INSTALL_DIR=/groups/icecube/jackp/geant4-v11.1.0-install
+LD_GOLD=/groups/icecube/jackp/.conda/envs/myenv/bin/x86_64-conda-linux-gnu-ld.gold
+MPLBACKEND=module://matplotlib_inline.backend_inline
+CONDA_PYTHON_EXE=/software/astro/anaconda/anaconda3-2020.11/bin/python
+LD_LIBRARY_PATH=/groups/icecube/jackp/geant4-v11.1.0-install/lib64:/groups/icecube/jackp/geant4-v11.1.0-install/lib:/groups/icecube/jackp/build_lepton_injector/home/jack/lepton_injector_clone/build:/groups/icecube/jackp/lhapdf5/lib:/groups/icecube/jackp/genie-3.4.2/lib:/groups/icecube/jackp/lhapdf5/lib:/groups/icecube/jackp/genie-3.4.2/src/scripts/build/ext/v6_428/lib:/groups/icecube/jackp/root_install/lib:/groups/icecube/jackp/log4cpp/lib:/software/local/intel/parallel_studio_xe_2020_upd4/compilers_and_libraries_2020.4.304/linux/compiler/lib/intel64:/software/astro/hdf5-1.10.4/lib:
+XDG_RUNTIME_DIR=/run/user/17051
+SSL_CERT_FILE=/etc/pki/ca-trust/extracted/pem/tls-ca-bundle.pem
+SSH_CLIENT=130.225.188.131 30835 22
+CONDA_DEFAULT_ENV=myenv
+GEANT4_DATA_DIR=/groups/icecube/jackp/geant4-v11.1.0-install/share/Geant4/data
+OBJCOPY=/groups/icecube/jackp/.conda/envs/myenv/bin/x86_64-conda-linux-gnu-objcopy
+DEBUGINFOD_URLS=https://debuginfod.centos.org/ 
+VSCODE_CLI_REQUIRE_TOKEN=4ad1df8d-9daa-4d29-954b-f9fa0983073f
+which_declare=declare -f
+STRIP=/groups/icecube/jackp/.conda/envs/myenv/bin/x86_64-conda-linux-gnu-strip
+XDG_DATA_DIRS=/groups/icecube/jackp/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+OBJDUMP=/groups/icecube/jackp/.conda/envs/myenv/bin/x86_64-conda-linux-gnu-objdump
+BROWSER=/lustre/hpc/icecube/jackp/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/bin/helpers/browser.sh
+PATH=/groups/icecube/jackp/geant4-v11.1.0-install/bin:/groups/icecube/jackp/genie-3.4.2/bin:/groups/icecube/jackp/genie-3.4.2/install/bin:/groups/icecube/jackp/root_install/bin:/groups/icecube/jackp/lhapdf5/bin:/groups/icecube/jackp/.conda/envs/myenv/bin:/lustre/hpc/icecube/jackp/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/bin/remote-cli:/groups/icecube/jackp/.conda/envs/myenv/bin:/software/astro/anaconda/anaconda3-2020.11/condabin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/groups/icecube/jackp/bin:/groups/icecube/jackp/bin:/groups/icecube/jackp/geant4-v11.1.0-install/bin
+GENIE_VER=3.04.02
+MODULEPATH=/etc/scl/modulefiles:/etc/scl/modulefiles:/etc/modulefiles:/usr/share/modulefiles:/usr/share/modulefiles/Linux:/usr/share/modulefiles/Core:/usr/share/lmod/lmod/modulefiles/Core:/software/local/modulefiles
+CC=/usr/bin/gcc
+CFLAGS=-I/usr/include -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /groups/icecube/jackp/.conda/envs/myenv/include
+CXXFILT=/groups/icecube/jackp/.conda/envs/myenv/bin/x86_64-conda-linux-gnu-c++filt
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/17051/bus
+LMOD_CMD=/usr/share/lmod/lmod/libexec/lmod
+VSCODE_NLS_CONFIG={"userLocale":"en","osLocale":"en","resolvedLanguage":"en","defaultMessagesFile":"/lustre/hpc/icecube/jackp/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/nls.messages.json","locale":"en","availableLanguages":{}}
+BUILD=x86_64-conda-linux-gnu
+MAIL=/var/spool/mail/jackp
+CONDA_PREFIX_1=/software/astro/anaconda/anaconda3-2020.11
+LEPTONINJECTOR_LIB=/groups/icecube/jackp/build_lepton_injector/home/jack/lepton_injector_clone/build
+RANLIB=/groups/icecube/jackp/.conda/envs/myenv/bin/x86_64-conda-linux-gnu-ranlib
+VSCODE_HANDLES_UNCAUGHT_ERRORS=true
+CONDA_BUILD_SYSROOT=/groups/icecube/jackp/.conda/envs/myenv/x86_64-conda-linux-gnu/sysroot
+VSCODE_IPC_HOOK_CLI=/run/user/17051/vscode-ipc-602d68ab-6481-42fc-a63f-6aaf80a79322.sock
+MKL_INTERFACE_LAYER=LP64,GNU
+BASH_FUNC_ml%%=() {  eval "$($LMOD_DIR/ml_cmd "$@")"
+}
+BASH_FUNC_which%%=() {  ( alias;
+ eval ${which_declare} ) | /usr/bin/which --tty-only --read-alias --read-functions --show-tilde --show-dot $@
+}
+BASH_FUNC_module%%=() {  if [ -z "${LMOD_SH_DBG_ON+x}" ]; then
+ case "$-" in 
+ *v*x*)
+ __lmod_sh_dbg='vx'
+ ;;
+ *v*)
+ __lmod_sh_dbg='v'
+ ;;
+ *x*)
+ __lmod_sh_dbg='x'
+ ;;
+ esac;
+ fi;
+ if [ -n "${__lmod_sh_dbg:-}" ]; then
+ set +$__lmod_sh_dbg;
+ echo "Shell debugging temporarily silenced: export LMOD_SH_DBG_ON=1 for Lmod's output" 1>&2;
+ fi;
+ eval "$($LMOD_CMD shell "$@")" && eval "$(${LMOD_SETTARG_CMD:-:} -s sh)";
+ __lmod_my_status=$?;
+ if [ -n "${__lmod_sh_dbg:-}" ]; then
+ echo "Shell debugging restarted" 1>&2;
+ set -$__lmod_sh_dbg;
+ fi;
+ unset __lmod_sh_dbg;
+ return $__lmod_my_status
+}
+BASH_FUNC_scl%%=() {  if [ "$1" = "load" -o "$1" = "unload" ]; then
+ eval "module $@";
+ else
+ /usr/bin/scl "$@";
+ fi
+}
+_=/usr/bin/env
